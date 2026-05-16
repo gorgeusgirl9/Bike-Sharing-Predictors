@@ -32,6 +32,3 @@ Bu proje, yapısal zaman ve hava durumu verilerini analiz ederek, akıllı bir �
 
 ---
 
-## 🚀 Canlı Uygulama (Deployment)
-
-Proje, kullanıcı dostu bir arayüz ile **Hugging Face Spaces** üzerinde **Streamlit** mimarisi kullanılarak canlıya alınmıştır. Kullanıcılar takvim ve hava durumu parametrelerini seçerek anlık talep tahmin raporu üretebilirler.
